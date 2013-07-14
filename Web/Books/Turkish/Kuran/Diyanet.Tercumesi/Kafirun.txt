@@ -1,0 +1,6 @@
+109/1 De ki: "Ey inkarcýlar!"
+109/2 "Ben sizin taptýklarýnýza tapmam."
+109/3 "Benim taptýðýma da sizler tapmazsýnýz."
+109/4 "Ben de sizin taptýðýnýza tapacak deðilim."
+109/5 "Benim taptýðýma da sizler tapmýyorsunuz."
+109/6 "Sizin dininiz size, benim dinim banadýr."

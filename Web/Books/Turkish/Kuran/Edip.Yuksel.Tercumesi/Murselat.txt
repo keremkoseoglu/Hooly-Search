@@ -1,0 +1,50 @@
+77/1 Andolsun ard arda gönderilenlere,
+77/2 Esip savuranlara,
+77/3 Yaydýkça yayanlara,
+77/4 Ayýrdýkça ayýranlara,
+77/5 Mesajý verenlere,
+77/6 Bir müjde veya uyarý olarak...
+77/7 Size söz verilenler kesinlikle gerçekleþecektir.
+77/8 Yýldýzlar söndürüldüðü,
+77/9 Göðün yarýldýðý,
+77/10 Daðlarýn ufalanýp savrulduðu,
+77/11 Ve elçilere randevu verildiði zaman,
+77/12 Belirlenen gün için...
+77/13 Yani Karar Günü için!
+77/14 O nasýl bir yargýlama günüdür bilir misin!
+77/15 Yalanlayanlarýn vay haline o gün!
+77/16 Öncekileri helak etmedik mi?
+77/17 Sonra, diðerlerini de onlara katmadýk mý?
+77/18 Suçlulara iþte böyle davranýrýz.
+77/19 Yalanlayanlarýn vay haline o gün!
+77/20 Sizi deðersiz bir sudan yaratmadýk mý?
+77/21 Ve sonra onu iyi korunan bir yere yerleþtirmedik mi?
+77/22 Bilinen bir süreye kadar.
+77/23 Biz ölçtük, biçtik. Biz en iyi biçim verenleriz.
+77/24 Yalanlayanlarýn vay haline o gün!
+77/25 Yeryüzünü bir toplanma yeri yapmadýk mý?
+77/26 Yaþayanlar için, ölüler için...
+77/27 Üzerine yüksek daðlar yerleþtirip size tatlý su içirmedik mi?
+77/28 Yalanlayanlarýn vay haline o gün!
+77/29 Haydi yalanlamakta olduðunuz þeye doðru yürüyün.
+77/30 Yürüyün, (cehennem alevinin) üç kollu gölgesine doðru...
+77/31 O ne gölgelendirir ne de alevden korur.
+77/32 Kývýlcýmlar saçar, saraylar gibi...
+77/33 (Rengi de) Sarý deve gibi.
+77/34 Yalanlayanlarýn vay haline o gün!
+77/35 Bu, onlarýn konuþamýyacaðý bir gündür.
+77/36 Ve özür dilemeleri için onlara izin de verilmez.
+77/37 Yalanlayanlarýn vay haline o gün!
+77/38 Bu, Karar Günüdür. Sizi ve öncekileri toplamýþýzdýr.
+77/39 Bir planýnýz varsa bana karþý onu uygulayýn!
+77/40 Yalanlayanlarýn vay haline o gün!
+77/41 Erdemliler gölgeliklerde ve pýnarlar arasýnda...
+77/42 Ve canlarýnýn çektiði meyvalar...
+77/43 Yaptýklarýnýza karþýlýk afiyetle yiyip için.
+77/44 Ýyi davrananlarý iþte böyle ödüllendiririz.
+77/45 Yalanlayanlarýn vay haline o gün!
+77/46 Yiyiniz ve geçici olarak eðleniniz; siz suçlularsýnýz.
+77/47 Yalanlayanlarýn vay haline o gün!
+77/48 Onlara eðilin dendiðinde eðilmezler.
+77/49 Yalanlayanlarýn vay haline o gün!
+77/50 Artýk bundan sonra hangi hadise (söze) inanýrlar?

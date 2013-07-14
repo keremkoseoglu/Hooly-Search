@@ -1,0 +1,96 @@
+56/1 O beklenen müthiþ olay olduðunda,
+56/2 Yoktur onun oluþunu yalanlayacak.
+56/3 Kimini alçaltýr, kimini yükseltir.
+56/4 Yerküre bir sarsýlýþla sarsýldýðýnda,
+56/5 Daðlar bir serpiliþle serpildiðinde,
+56/6 Hepsi un-ufak olup daðýlmýþtýr.
+56/7 Ve sizler, üç çift/sýnýf oluvermiþsinizdir.
+56/8 Ýþte uður ve mutluluk yaraný. Nedir uður ve mutluluk yaraný?
+56/9 Ýþte þomluk ve bunalým yaraný. Nedir þomluk ve bunalým yaraný?
+56/10 Ve oluþta önde gidenler, yarýþta önde gidenler...
+56/11 Ýþte onlardýr yaklaþtýrýlanlar.
+56/12 Nimetlerle dolu bahçelerdedirler.
+56/13 Büyük kýsmý öncekilerden,
+56/14 Az bir kýsmý da sonrakilerden.
+56/15 Süslü, nakýþlý tahtlar üzerinde,
+56/16 Onlar üstünde karþýlýklý yan gelip yaslanýrlar.
+56/17 Gencecik uþaklar dolanýr çevrelerinde. Sürekli hizmete adanmýþlardýr.
+56/18 Sürahiler, ibrikler ve öz kaynaðýndan içkilerle doldurulmuþ kadehler eþliðinde.
+56/19 Ne baþlarý döner ondan ne de akýllarý karýþýr.
+56/20 Ve meyvalar, gönüllerince seçtiklerinden.
+56/21 Ve kuþ eti iþtahlarýnca beðendiklerinden.
+56/22 Ve genç kadýnlar, iri ve siyah gözlü,
+56/23 Titizlikle korunan inciler misali;
+56/24 Yaptýklraýna karþýlýk olarak.
+56/25 Ne boþ bir laf iþitirler orada ne de günaha sokacak bir þey.
+56/26 Sadece "selam,selam!" denir.
+56/27 Uður ve mutluluk yaraný. Nedir uður ve mutluluk yaraný?
+56/28 Dikensiz kirazlar,
+56/29 Meyva dizili muz aðaçlarý,
+56/30 Uzayan gölgeler,
+56/31 Akýp dökülen sular,
+56/32 Birçok meyvalar arasýndadýrlar.
+56/33 Ne tükenir ne yasaklanýr.
+56/34 Yükseðe yerleþtirilmiþ döþekler içinde.
+56/35 Biz kadýnlarý da güzel bir biçimde yeniden yaratmýþ,
+56/36 Hepsini bakireler yapmýþýzdýr,
+56/37 Yaþýt cilveli dilberler halinde,
+56/38 Uður ve mutluluk yaraný için.
+56/39 Bir bölümü öncekilerden,
+56/40 Bir bölümü de sonrakilerden.
+56/41 Ve þomluk ve uðursuzluk yaraný. Nedir þomluk ve uðursuzluk yaraný?
+56/42 Ýliklere iþleyen bir ateþ ve kaynar su içinde,
+56/43 Simsiyah bir gölge altýndadýrlar.
+56/44 Ne serindir ne de cömert.
+56/45 Çünkü þomluk yaraný, bundan önce servet ve refahla þýmaranlardýr.
+56/46 O büyük günah üzerinde ýsrar edip dururlardý.
+56/47 Ve þöyle derlerdi: "Ölünce mi, toprak ve kemik haline gelince mi, sahi o zaman mý diriltileceðiz?"
+56/48 "Önceki atalarýmýz da mý?"
+56/49 De ki: "Öncekiler de sonrakiler de."
+56/50 Bilinen bir günün buluþma vakti/buluþma yerinde mutlaka biraraya getirileceklerdir.
+56/51 Ve siz de ey sapýk yalancýlar!
+56/52 Zakkumdan bir aðaçtan mutlaka yiyeceksiniz/yiyecekler.
+56/53 Karýnlarý dolduracaklar ondan,
+56/54 Üzerine içecekler kaynar sudan,
+56/55 Susuzluktan çýkmýþ develerin içiþi gibi içecekler.
+56/56 Din gününde aðýrlanýþlarý böyledir.
+56/57 Sizi biz yarattýk, biz! Tasdik etseydiniz olmaz mýydý?
+56/58 Akýttýðýnýz meniyi gördünüz mü?
+56/59 Siz mi yaratýyorsunuz onu, yoksa yaratýcýlar bizler miyiz?
+56/60 Ölümü aranýzda biz takdir ettik. Biz önüne geçilecekler deðiliz.
+56/61 Yerinize diðer benzerlerinizi getireceðiz ve sizi bilemeyeceðiniz bir þekilde yeniden oluþturacaðýz.
+56/62 Andolsun, ilk yaratýþý/yaratýlýþý bildiniz. Peki düþünüp ibret alsanýz olmaz mý?
+56/63 Ekmekte olduðunuzu gördünüz mü?
+56/64 Siz mi bitiriyorsunuz onu, yoksa bitirenler bizler miyiz?
+56/65 Dileseydik, onu kuru bir çöl haline getirirdik de baþlardýnýz þu þekilde gevelemeye:
+56/66 "Vallahi, kayba uðrayýp borçlandýk."
+56/67 "Doðrusu mahrum býrakýldýk biz."
+56/68 Þu içmekte olduðunuz suya baktýnýz mý?
+56/69 Buluttan onu siz mi indirdiniz, yoksa indirenler bizler miyiz?
+56/70 Dileseydik, onu tuzlu yapýverirdik. Peki þükretmeniz gerekmez mi?
+56/71 Çakýp çakýp çýkardýðýnýz o ateþi gördünüz mü?
+56/72 Onun aðacýný siz mi yarattýnýz yoksa yaratýp oluþturan bizler miyiz?
+56/73 Biz onu hem bir ibret hem de çöl yolcularýna bir nimet kýldýk.
+56/74 O halde, o yüce Rabbinin adýný tespih et.
+56/75 Ýþ onlarýn sandýðý gibi deðil! Yýldýzlarýn doðup batma, kayýp düþme noktalarýna yemin ediyorum.
+56/76 Ve eðer bilirseniz, gerçekten büyük bir yemindir bu.
+56/77 O, kesinlikle þerefli bir Kur'an'dýr.
+56/78 Titizlikle saklanan bir Kitap'tadýr.
+56/79 Ona, arýndýrýlmýþlardan baþkasý dokunamaz.
+56/80 Alemlerin Rabbi'nden indirilmiþtir.
+56/81 Þimdi siz, bu sözü mü kirletip küçümseyeceksiniz?
+56/82 Rýzkýnýzý, yalanlamanýzdan ibaret mi kýlýyorsunuz?
+56/83 Ya o caýnýn boðaza gelip dayandýðý zaman!
+56/84 Ýþte o zaman siz bakakalýrsýnýz!
+56/85 Biz ona sizden daha yakýnýz, ama siz görmezsiniz.
+56/86 Madem ceza görmeyecek kiþilersiniz,
+56/87 Eðer doðru sözlülerseniz, onu geri çevirsenize.
+56/88 Eðer o, yaklaþtýranlardan ise;
+56/89 Rahatlýk, güzel rýzýk ve nimetlerle dolu cennet var ona.
+56/90 Eðer kutlu, uðurlu kiþilerdense,
+56/91 "Selam sana kutlu ve uðurlu kiþilerden." denir ona.
+56/92 Eðer yalanlayan sapýklardansa;
+56/93 Kaynar sudan bir ziyafet,
+56/94 Ve cehenneme salýverilme var ona.
+56/95 Ýþte budur, o tartýþmasýz, o kesin gerçek!
+56/96 Artýk, oyüce Rabbinin adýný tespih et!
